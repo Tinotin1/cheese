@@ -1,0 +1,3 @@
+@echo
+echo cheese
+pause
